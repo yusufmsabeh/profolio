@@ -6,7 +6,7 @@ function App() {
   return (
     <>
         <div className="card">
-            <h1>Yusuf Musbeh</h1>
+            <h1>YUSUF NAFEZ ABU-MUSBEH</h1>
             <h3>Backend developer</h3>
         </div>
 
