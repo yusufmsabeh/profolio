@@ -7,7 +7,7 @@ function App() {
     <>
         <div className="card">
             <h1>YUSUF NAFEZ ABU-MUSBEH</h1>
-            <h3>Backend developer</h3>
+            <h2>Backend developer</h2>
         </div>
 
     </>
